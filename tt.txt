@@ -1,3 +1,2 @@
 this is text file
 This is the second line which I have added for github.
-third line
